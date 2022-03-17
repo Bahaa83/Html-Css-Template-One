@@ -447,4 +447,13 @@ letter-spacing: -2px;
 .contact .contact-footer p span{
     color: var(--main-color);
 }
+.footer-text{
+    
+}
+@media (max-width:900px) {
+    .footer-text{
+        font-size: 10px;
+        text-align: center;
+    }
+}
 /*--End Contact--*/
